@@ -1,4 +1,4 @@
-# 👨‍💻 Jack Valley
+# 👨‍💻 Jack Valley <img src="https://komarev.com/ghpvc/?username=ducky07&label=Profile%20views&color=7b94db&style=flat" alt="ducky07"/>
 ### 🎓 Studing IT and Business Administration in Turku University of Applied Science
 **`Enthusiastic Freethinker (Developer/Manager/Tech Lead)`**
 
@@ -10,7 +10,7 @@ You have a high chance of finding me on a Virtual Reality platform 👀
 
 If you're interested in something that I do, feel free to message me on <a href="https://discordapp.com/users/109988029120151552">Discord<a/>
 #
-### 📊 Stats <img src="https://komarev.com/ghpvc/?username=ducky07&label=Profile%20views&color=7b94db&style=flat" alt="ducky07"/>
+### 📊 Stats
 ![Ducky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ducky07&show_icons=true&theme=blueberry)
 #
 ### 🚀 Tools and Technologies I'm familiar with
