@@ -4,7 +4,7 @@
 
 *Excited about all kinds of new technology*
 
-Most likely we're going to have some big breakthroughs in the next upcoming 5-10 years. I hope that I'll be able to take part, and enjoy life along the way 😊
+We are likely going to have some big breakthroughs within the development landscape in the next upcoming 5-10 years. I hope that I'll be able to take part in it, and enjoy life along the way 😊
 
 You have a high chance of finding me on a Virtual Reality platform 👀
 
