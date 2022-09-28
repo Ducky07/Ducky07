@@ -6,7 +6,7 @@
 
 We are likely going to have some big breakthroughs within the development landscape in the next upcoming 5-10 years. I hope that I'll be able to take part in it, and enjoy life along the way 😊
 
-You have a high chance of finding me on a Virtual Reality platform 👀
+You have a high chance of finding me on Virtual Reality platforms 👀
 
 If you're interested in something that I do, feel free to message me on <a href="https://discordapp.com/users/109988029120151552">Discord<a/>
 #
