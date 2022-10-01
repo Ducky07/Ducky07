@@ -25,8 +25,7 @@ If you're interested in something that I do, feel free to message me on <a href=
 <img align="left" title="Next.js" alt="Nextjs" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" title="Eslint" alt="Eslint" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
 <img align="left" title="GraphQL" alt="GraphQL" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-<img align="left" title="JetBrains" alt="Jetbrains" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-<img align="left" title="Docker" alt="Docker" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" title="Python" alt="Python" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" title="Bash" alt="Bash" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" title="Docker" alt="Docker" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" title="JetBrains" alt="Jetbrains" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 <br />
