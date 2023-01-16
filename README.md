@@ -11,7 +11,7 @@ You have a high chance of finding me on Virtual Reality platforms 👀
 If you're interested in something that I do, feel free to message me on <a href="https://discordapp.com/users/109988029120151552">Discord<a/>
 #
 ### 📊 Stats
-![Ducky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ducky07&show_icons=true&theme=blueberry)
+![Ducky's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Ducky07&show_icons=true&theme=dark)
 #
 ### 🚀 Tools and Technologies I'm familiar with
 <img align="left" title="Javascript" alt="JavaScript" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
