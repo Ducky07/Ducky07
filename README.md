@@ -1,6 +1,6 @@
 # 👨‍💻 Jack Valley <img src="https://komarev.com/ghpvc/?username=ducky07&label=Profile%20views&color=7b94db&style=flat" alt="ducky07"/>
 ### 🎓 Studying IT and Business Administration in Turku University of Applied Science
-**`Enthusiastic Freethinker (Developer/Manager/Tech Lead)`**
+**`Broad- and Open-minded Freethinker (Developer/Manager/Tech Lead)`**
 
 *Excited about all kinds of new technology*
 
