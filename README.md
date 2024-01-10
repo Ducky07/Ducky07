@@ -1,10 +1,10 @@
 # 🌴 Jack Valley <img src="https://komarev.com/ghpvc/?username=ducky07&label=Profile%20views&color=7b94db&style=flat" alt="ducky07"/>
-### 🎓 Studying IT and Business Administration in Turku University of Applied Science
-**`Modern day Herder (Developer/Manager/Tech Lead)`**
+### 🎓 Studying IT and Business Administration in Turku University of Applied Sciences
+**`Modern Day Herder (Developer/Manager/Tech Lead)`**
 
 *My legacy will be the code that I leave behind*
 
-We're likely going to have some big breakthroughs within the development landscape in the next few years. I hope that I'll be able to take part in what's coming.
+Might have some big breakthroughs within the development landscape in the next few years. I hope that you'll be able to take part in what's coming.
 
 You have a high chance of finding me on VR platforms 🎮
 
