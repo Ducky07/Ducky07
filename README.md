@@ -1,31 +1,46 @@
-# 👨‍💻 Jack Valley <img src="https://komarev.com/ghpvc/?username=ducky07&label=Profile%20views&color=7b94db&style=flat" alt="ducky07"/>
+# 🌴 Jack Valley <img src="https://komarev.com/ghpvc/?username=ducky07&label=Profile%20views&color=7b94db&style=flat" alt="ducky07"/>
 ### 🎓 Studying IT and Business Administration in Turku University of Applied Science
-**`Broad and Open-minded Freethinker (Developer/Manager/Tech Lead)`**
+**`Modern day Herder (Developer/Manager/Tech Lead)`**
 
-*Excited about all kinds of new technology*
+*My legacy will be the code that I leave behind*
 
-We are likely going to have some big breakthroughs within the development landscape in the next upcoming 5-10 years. I hope that I'll be able to take part in it, and enjoy life along the way 😊
+We're likely going to have some big breakthroughs within the development landscape in the next few years. I hope that I'll be able to take part in what's coming.
 
-You have a high chance of finding me on Virtual Reality platforms 👀
+You have a high chance of finding me on VR platforms 🎮
 
-If you're interested in something that I do, feel free to message me on <a href="https://discordapp.com/users/109988029120151552">Discord<a/>
+If you're interested in what I do, feel free to message me on <a href="https://discordapp.com/users/109988029120151552">Discord<a/>
 #
 ### 📊 Stats
 ![Ducky's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Ducky07&show_icons=true&theme=dark)
 #
-### 🚀 Tools and Technologies I'm familiar with
-<img align="left" title="Javascript" alt="JavaScript" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" title="Typescript" alt="TypeScript" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" title="React" alt="React" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" title="Redux" alt="Redux" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
-<img align="left" title="Deno" alt="Deno" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg"/>
-<img align="left" title="Node.js" alt="NodeJS" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" title="Kotlin" alt="Kotlin" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" title="NestJS" alt="Nestjs" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-<img align="left" title="Next.js" alt="Nextjs" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" title="Eslint" alt="Eslint" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
-<img align="left" title="GraphQL" alt="GraphQL" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-<img align="left" title="Python" alt="Python" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" title="Docker" alt="Docker" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" title="JetBrains" alt="Jetbrains" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-<br />
+### 🚀 Technologies and tools that I use frequently
+<a href="https://javascript.com/">
+  <img align="left" title="Javascript" alt="JavaScript" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<a/>
+<a href="https://typescriptlang.org/">
+  <img align="left" title="Typescript" alt="TypeScript" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<a/>
+<a href="https://python.org/">
+  <img align="left" title="Python" alt="Python" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<a/>
+<a href="https://kotlinlang.org/">
+  <img align="left" title="Kotlin" alt="Kotlin" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<a/>
+<a href="https://react.dev/">
+  <img align="left" title="React" alt="React" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<a/>
+<a href="https://tailwindcss.com/">
+  <img align="left" title="Tailwind" alt="Tailwind CSS" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<a/>
+<a href="https://deno.com/">
+  <img align="left" title="Deno" alt="Deno" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg"/>
+<a/>
+<a href="https://nodejs.org/">
+  <img align="left" title="Node.js" alt="NodeJS" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<a/>
+<a href="https://docker.com/">
+  <img align="left" title="Docker" alt="Docker" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<a/>
+<a href="https://jetbrains.com/">
+  <img align="left" title="JetBrains" alt="Jetbrains" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+<a/>
