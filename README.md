@@ -15,32 +15,32 @@ If you're interested in what I do, feel free to message me on <a href="https://d
 #
 ### 🚀 Technologies and tools that I use frequently
 <a href="https://javascript.com/">
-  <img align="left" title="Javascript" alt="JavaScript" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="left" title="Javascript" alt="JavaScript" width="30px" style="padding-right:6px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <a/>
 <a href="https://typescriptlang.org/">
-  <img align="left" title="Typescript" alt="TypeScript" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="left" title="Typescript" alt="TypeScript" width="30px" style="padding-right:6px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 <a/>
 <a href="https://python.org/">
-  <img align="left" title="Python" alt="Python" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="left" title="Python" alt="Python" width="30px" style="padding-right:6px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <a/>
 <a href="https://kotlinlang.org/">
-  <img align="left" title="Kotlin" alt="Kotlin" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img align="left" title="Kotlin" alt="Kotlin" width="30px" style="padding-right:6px;" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
 <a/>
 <a href="https://react.dev/">
-  <img align="left" title="React" alt="React" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" title="React" alt="React" width="30px" style="padding-right:6px;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 <a/>
 <a href="https://tailwindcss.com/">
-  <img align="left" title="Tailwind" alt="Tailwind CSS" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="left" title="Tailwind" alt="Tailwind CSS" width="30px" style="padding-right:6px;" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
 <a/>
 <a href="https://deno.com/">
-  <img align="left" title="Deno" alt="Deno" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg"/>
+  <img align="left" title="Deno" alt="Deno" width="30px" style="padding-right:6px;" src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg"/>
 <a/>
 <a href="https://nodejs.org/">
   <img align="left" title="Node.js" alt="NodeJS" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <a/>
 <a href="https://docker.com/">
-  <img align="left" title="Docker" alt="Docker" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="left" title="Docker" alt="Docker" width="30px" style="padding-right:6px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 <a/>
 <a href="https://jetbrains.com/">
-  <img align="left" title="JetBrains" alt="Jetbrains" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+  <img align="left" title="JetBrains" alt="Jetbrains" width="30px" style="padding-right:6px;" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" />
 <a/>
