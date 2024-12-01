@@ -1,4 +1,4 @@
-# 🌴 Jack Valley <a href="https://github.com/ducky07"><img src="https://komarev.com/ghpvc/?username=ducky07&label=Profile%20Views&base=9801&color=128587&style=flat/square&abbreviated=true" title="View Counter" alt="Ducky07 Page Views"/></a>
+# 🌴 Jack Valley - <a href="https://github.com/ducky07"><img src="https://komarev.com/ghpvc/?username=ducky07&label=Profile%20Views&base=9801&color=128587&style=flat/square&abbreviated=true" title="View Counter" alt="Ducky07 Page Views"/></a>
 
 #### 🎓 Studying Business Administration and Software Development in Turku University of Applied Sciences
 > Primary focus on software development, with a bit of business studies on the side<br>
