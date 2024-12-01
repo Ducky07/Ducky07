@@ -46,7 +46,7 @@
 
 I am actively working towards launching my own business upon graduation. I am eager to connect with like-minded professionals who share an interest in web development and entrepreneurship. If you're passionate about these fields, I’d welcome the opportunity to connect and exchange ideas.
 
-Interested in my work? Feel free to reach out to me on <a href="https://signal.me/#eu/-KjjLB_caLszIcYxMJVKBjt_MD8LJGycJRoRMKlpGPGDn1al_-1IP7If7PKd7X5B">Signal<a/>
+Interested in my work? Feel free to reach out to me on <a href="https://signal.me/#eu/-KjjLB_caLszIcYxMJVKBjt_MD8LJGycJRoRMKlpGPGDn1al_-1IP7If7PKd7X5B" title="Signal">Signal<a/>
 
 #### Want to support what I do?
 - Give one of my repositories a star
