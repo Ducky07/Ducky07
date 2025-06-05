@@ -5,7 +5,7 @@
 > Helping people in my spare time is something I find truly rewarding
 
 **Modern Day Herder `(Developer/Manager/Tech Lead)`**
-> With eight years in development, I’ve honed my skills across various projects<br>
+> With ten years of experience, I’ve honed my skills across various projects<br>
 > I specialize in full-stack development and architectural design<br>
 > Working towards mastering efficient and scalable services
 
