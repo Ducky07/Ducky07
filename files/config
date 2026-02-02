@@ -1,0 +1,24 @@
+# This is the configuration file for Ghostty.
+#
+# Run `ghostty +show-config --default --docs` to view a list of
+# all available config options and their default values.
+#
+# Ghostty can reload the configuration while running by using the menu
+# options or the bound key control + Shift + comma.
+
+# Config
+# ==========================
+font-family = 0xProto Nerd Font Propo
+font-size = 14
+cursor-color = #5eafc4
+cursor-style = bar
+background = #14100e
+background-opacity = 0.95
+command = fish
+
+window-width = 80
+window-height = 35
+window-padding-x = 3
+window-padding-y = 0
+window-padding-balance = true
+window-save-state = always
