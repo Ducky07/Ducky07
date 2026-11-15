@@ -39,12 +39,3 @@
   <img align="left" title="Docker" alt="Docker" width="30px" style="padding-right:6px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 <a/>
 <br>
-
----
-
-
-#### Want to support what I do?
-- Give one of my repositories a star
-- Send me a message
-- Follow me on Github!
-- Lastly, you could [help me get a bike](https://github.com/sponsors/Ducky07)
